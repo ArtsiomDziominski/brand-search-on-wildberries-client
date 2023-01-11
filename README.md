@@ -1,3 +1,4 @@
+![Анимация](https://user-images.githubusercontent.com/86887225/211832394-20731e96-552d-44de-baf7-c4bb32fa210d.gif)
 # brand-search-on-wildberries-client
 
 This template should help get you started developing with Vue 3 in Vite.
